@@ -1,10 +1,6 @@
 # 🌿 Plant Disease Classifier
 
 <p align="center">
-  <img src="images/logo.png" alt="Project Logo" width="600"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/>
   <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-2.0%2B-orange" alt="PyTorch"/>
